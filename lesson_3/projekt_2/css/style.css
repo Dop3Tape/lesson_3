@@ -1,0 +1,25 @@
+/* @import "null.css"; */
+* {
+	color: palegreen;
+}
+div p span{
+	color: red;
+}
+[class*="text__"] {
+	color: rgb(0, 47, 255);
+}
+[class*="block__"] {
+	color: black;
+}
+.four__letters > li{
+	color: salmon;
+}
+div div p{
+	color: rgb(162, 0, 255);
+}
+span{
+	font-size: 22px;
+}
+#sixone {
+	font-size: 28px;
+}
